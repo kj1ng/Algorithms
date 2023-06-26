@@ -7,7 +7,7 @@
 - Selective processing
 - Iterative processing
 
-### Program Functions
+### Program Procedures
 Checks total Chatacter Length
 Checks Number of Words in Sentence
 Checks Vowel Characters in Sentence 
